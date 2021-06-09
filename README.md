@@ -18,3 +18,6 @@
 
 **_Bugs_**
 - Report a bug -> https://github.com/xXMcpeGamerXx03/Timer/issues/new
+
+**_Suggestions_**
+- Write a suggestion -> https://github.com/xXMcpeGamerXx03/Timer/issues/new
