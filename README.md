@@ -21,3 +21,5 @@
 
 **_Suggestions_**
 - Write a suggestion -> https://github.com/xXMcpeGamerXx03/Timer/issues/new
+
+**Made with ❤️ by r3pt1s!**
